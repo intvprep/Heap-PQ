@@ -1,0 +1,11 @@
+Heap
+ - A heap is a partially sorted binary tree.
+ - Every node has a value less(or more) than either of its children.
+ - a heap is a "complete tree". a complete tree is one that has every level 
+   filled in before adding a node to the next level, and one that has the 
+   nodes in a given level filled in from left to right, with no breaks
+ - The maximum number of children of a node in a heap depends on the type of heap. 
+   However, in the more commonly-used heap type, there are at most 2 children 
+   of a node and it's known as a "Binary Heap".
+ - A heap can be thought of as a priority queue; the most important node will 
+   always be at the top, and when removed, its replacement will be the most important     
